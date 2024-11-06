@@ -1,6 +1,7 @@
 #  Swiggy Data Analysis using SQL
 
-!{[[swiggy img logo.png](https://github.com/Priyaah13/swiggy_sql_project/blob/main/swiggy%20img%20logo.png)]
+![sw](https://github.com/Priyaah13/swiggy_sql_project/blob/main/swiggy%20img%20logo.png)
+
 
 ##Create database SQLFT;
 #1) 1) Details of customers whose name starts with A; and have
